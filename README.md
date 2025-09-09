@@ -1,5 +1,59 @@
 # CodeMind-AI
 ## 🧠 SuperintelligenceAI
+
+## EN :
+
+# CodeMind-AI
+## 🧠 SuperintelligenceAI
+### An autonomous cognitive architecture for software engineering. Welcome to the next generation of coding assistants.
+
+### ✨ The Concept:
+
+Large Language Models (LLMs) are powerful generators, but they lack the rigor, strategy, and self-awareness of a true expert engineer.  
+**SuperintelligenceAI is not just another LLM.**  
+It is a command-and-control system that orchestrates a symphony of LLMs and cognitive processes to produce software solutions of unmatched quality and reliability.  
+
+Think of it as a synthetic, autonomous, and self-improving software engineering agency.
+
+---
+
+### 🚀 Key Features:
+
+🤖 **Expert Agent Council**: A MultiAgentSystem where an Architect, a Developer, a Reviewer, and a DevOps agent debate and collaborate.  
+🤝 **Deliberation & Self-Critique**: A CrossFeedbackSystem enables agents to critique each other and iteratively improve solutions.  
+🚀 **Multi-LLM Orchestration**: The MultiLLMOrchestrator and ParallelLLMEngine choose the best LLMs for each task, run them in parallel, and intelligently merge their outputs.  
+🔬 **Deep Code Analysis**: An ASTAnalyzer objectively inspects source code to extract complexity, security, and performance metrics.  
+📊 **Quality Dashboard**: A QualityDashboard assigns a weighted quality score to each solution, ensuring that only the best results are delivered.  
+🦾 **Autonomous Execution**: The AutonomousExecutor can create files, install dependencies, compile, and run the code it generates.  
+🧠 **Long-Term Memory**: A VectorMemoryEngine leverages vector databases (Pinecone, Qdrant, or local) to remember past interactions and reuse them to improve future solutions (RAG).  
+🌍 **Continuous Learning**: Autonomous workers (KnowledgeIngestionEngine) scan the web to keep the knowledge base up to date.  
+📈 **Self-Improvement**: A SelfImprovementEngine and DatasetGenerator allow the AI to analyze its own successes and generate datasets for future fine-tuning.  
+
+---
+
+### 💡 Project Vision
+The goal is to create an AI that is not just a tool, but a true development partner —  
+an intelligence capable of handling complex tasks, ensuring code quality, and growing alongside its users.  
+
+This project explores the future of software engineering, where the key skill is no longer just writing code, but architecting and orchestrating intelligent systems.
+
+---
+
+### 🛠️ How to Use
+
+**SOON...**
+
+---
+
+### 🤝 Contributing
+Contributions, ideas, and feedback are always welcome.  
+Feel free to open an issue or a pull request!  
+
+[☕ Buy me a coffee](https://buymeacoffee.com/sticksonthebeach?new=1)
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## FR :
 ### Une architecture cognitive autonome pour l'ingénierie logicielle. Bienvenue dans la prochaine génération d'assistants de codage.
 ### ✨ Le Concept :
 
