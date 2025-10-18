@@ -2,7 +2,7 @@
 # CodeMind-AI
 ## 🧠 SuperintelligenceAI
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+[AI Link](https://github.com/SticksOnTheBeach)
 ## EN :
 ### An autonomous cognitive architecture for software engineering. Welcome to the next generation of coding assistants.
 
