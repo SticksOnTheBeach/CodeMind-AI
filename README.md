@@ -75,6 +75,7 @@ Pensez-y comme une agence d'ingénierie logicielle synthétique, autonome et aut
 L'objectif est de créer une IA qui ne soit pas seulement un outil, mais un véritable partenaire de développement. Une intelligence qui peut prendre en charge des tâches complexes, garantir la qualité du code, et grandir en même temps que ses utilisateurs.
 Ce projet est une exploration de l'avenir de l'ingénierie logicielle, où la compétence clé n'est plus seulement d'écrire du code, mais d'architecturer et de piloter des systèmes intelligents.
 
+
 ### 🛠️ Comment l'utiliser
 
 SOON...
@@ -82,3 +83,13 @@ SOON...
 ### 🤝 Contribution
 Les contributions, les idées et les retours sont les bienvenus. N'hésitez pas à ouvrir une issue ou une pull request !
 [buymeacoffee](https://buymeacoffee.com/sticksonthebeach?new=1)
+
+
+### Screenshots 
+
+**Design**  
+<img width="1919" height="941" alt="image" src="https://github.com/user-attachments/assets/217ef756-3f2b-4b03-9407-095f2c05fab3" />
+
+**Prompts**
+SOON
+
